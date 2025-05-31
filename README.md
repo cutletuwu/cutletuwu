@@ -1,1 +1,1 @@
-<img src="https://media.tenor.com/kAAA8TFgOaAAAAAi/emo.gif">
+<img src="https://media.tenor.com/etxvuyY8UVcAAAAi/black-line-divider.gif">
