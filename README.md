@@ -1,1 +1,1 @@
-<img src="https://media.tenor.com/etxvuyY8UVcAAAAi/black-line-divider.gif">
+<img src="https://media.tenor.com/M95lLUNQr34AAAAi/needy-streamer-overload-ded.gif">
