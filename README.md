@@ -1,3 +1,1 @@
-ㅤ ㅤ ㅤ  <img src="https://i.pinimg.com/736x/e5/1f/b1/e51fb158e5f57ecbd7c5597c4bad3dc4.jpg"> 
-
-cr @codomia7 в тг
+ㅤ ㅤ ㅤ  <img src="https://i.pinimg.com/originals/3b/04/b9/3b04b962ac8050d04ebf4d39e0b8905f.gif"> 
