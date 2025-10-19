@@ -1,2 +1,2 @@
 
-<p align="center"> ириски </p>
+<input type="ириски" size="50">
