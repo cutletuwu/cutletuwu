@@ -1,1 +1,1 @@
-<font size="4">ириски</font>
+<font size="7">ириски</font>
