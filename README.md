@@ -1,2 +1,1 @@
-
-<input type="ириски" size="50">
+<font size="4">ириски</font>
