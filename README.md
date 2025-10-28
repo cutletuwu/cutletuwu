@@ -1,1 +1,2 @@
-   <p style="text-align: center;"><img src="https://i.pinimg.com/originals/69/2b/46/692b464d5f38823255dc2587fcbdc505.gif"></p>
+
+<img class="centered-image" src="your-image.jpg" alt="https://i.pinimg.com/originals/69/2b/46/692b464d5f38823255dc2587fcbdc505.gif">
